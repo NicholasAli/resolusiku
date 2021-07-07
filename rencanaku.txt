@@ -1,4 +1,6 @@
 Rencana-kontenku
 -javascript
+  * ES6
+  * framework 
 -php
 html

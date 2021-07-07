@@ -2,6 +2,9 @@ Rencana-kontenku
 -javascript
   * ES6
   * framework 
+   ^vue
+   ^react
 - struktur data
 -php
 html
+pyton

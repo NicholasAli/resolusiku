@@ -2,8 +2,10 @@ Rencana-kontenku
 -javascript
   * ES6
   * framework 
-  ^ Angular
-  ^ react
-- laravel
+   ^vue
+   ^react
+   ^ Angular
+-struktur data
 -php
 html
+pyton

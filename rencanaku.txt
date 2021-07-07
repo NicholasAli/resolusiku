@@ -4,7 +4,8 @@ Rencana-kontenku
   * framework 
    ^vue
    ^react
-- struktur data
+   ^ Angular
+-struktur data
 -php
 html
 pyton
